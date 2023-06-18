@@ -54,8 +54,9 @@ The description and the data type of each column is as specified below,
 3.	The data types of the wage and value columns are changed from string to number. The values in these columns are in the string format [ ex - €130K], tableau doesn’t recognize it as a numeric value, so these values are processed.
 4.	Python – pandas is used to transform these values. The code for this is as shown in the below figure. The euro symbol is removed, the value with K is replaced with ‘000’, and the value M is replaced with ‘00000’. The result obtained is the value in integer format. [ ex: 130000].
 
- The below figure shows the python pre-processing steps
-
+ **The below figure shows the python pre-processing steps**
+ 
+ <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Preprocessing%20the%20dataset.JPG" />
 
 
 
