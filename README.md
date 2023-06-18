@@ -108,48 +108,64 @@ The users of the FIFA 19 dashboard are–
      •	**Question** - Identifying the Nationalities of all players of a particular club.
    
      •	The map highlights the countries of all the players in a club. A club filter is applied on the map, such that when a particular club is selected, the countries of the club’s players is highlighted with displaying the number of players from each country.
-
+     
+     <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Creating%20cloropleth%20map.JPG"/>
+     
 3.	A pie chart depicting the count of players which is organized based on the player’s preferred foot. 
 
     •	**Question** – How many players prefer left foot? Likewise, how many players prefer right foot?
     
     •	The preferred foot parameter takes 2 values either left or right. The pie chart gives the count of the number of players preferring right foot and number of players who prefer left foot.
-
+    
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Creating%20the%20pie%20chart.JPG"/>
+    
 4.	A bar chart displaying the potential of the players in a particular club.
 
     •	**Question** - Identifying the top players in each club based on overall potential.
     
     •	The Plot shows the potential of all the players in a club. A club filter is applied on the plot such that when a club name is selected the potentials of all the players in the club is displayed.
+    
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20the%20bar%20graph.JPG"/>
 
 5.	A bar chart depicting the age distribution of all the players in each club. The ages are grouped into categories of <20, 20s, 30s and 40s. The club filter is also applied to this chart. Answers the question 5.
 
     •	**Question** - What are the age groups and counts of players in each club?
     
     •	 Calculated field is created to group the ages and a club filter is applied. The club filter lets you choose the club value, and the graph shows the players age distribution.
+    
+    <img src=""/>
 
 6.	A pie chart of team strategy showing the count of attack, defense, and midfielder. A calculated field is created based on position parameters to get the afore mentioned fields.
 
     •	**Question** – What strategy does the club implement?
 
     •	The team strategy is defined by three parameters, attack, defense, and midfielder. These parameters are determined by the players positions. A calculated field is created based on the positions.
+    
+    <img src=""/>
 
 7.	A bar chart showing the top N players with highest penalties
 
     •	**Question** – Who are the players with highest penalties?
     
     •	The plot shows the top N players with the highest number of penalties in the season. The number of players to be displayed can be inputted by the user through top N filter.
+    
+    <img src=""/>
 
 8.	A table describing the stats of each player, this table includes the parameters of club, nationality, position, work rate, body type, jersey number and date joined.
 
     •	**Question** - Display the brief view of player’s stats.
     
     •	A user interactive filter is applied for the names of the players, such that when a player name is selected, the entire stat of the player is displayed.
+    
+    <img src=""/>
 
 9.	A bar chart showing the players distribution based on the wages in the season.
 
     •	**Question** - Show the wage distribution among the players in FIFA 19
     
     •	A calculated field is created on wages which is grouped into 10k – 20k, 30k – 40k, 50k – 100k, 100k-150k and >150k. The number of players in each wage group is then displayed.
+    
+    <img src=""/>
 
 10.	A bar chart showing the top expensive players based on values in the season.
 
