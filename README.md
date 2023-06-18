@@ -62,6 +62,6 @@ The description and the data type of each column is as specified below,
 
 **The figure 2.2 shows the python pre-processing steps**
 
-
+<img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Preprocessing%20the%20dataset%20fig%202.2.JPG" />
 
 
