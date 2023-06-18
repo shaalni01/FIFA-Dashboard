@@ -190,6 +190,47 @@ The users of the FIFA 19 dashboard are–
     •	The number of players who has different attack/defense work rate is shown in the graph.
     
     <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20bar%20chart%20for%20work%20rate.JPG"/>
+ # Section 6: Interactivity
+ 
+ **Interactive dashboards:**
+ 
+An interactive dashboard allows you to dig down and filter operational data, allowing you to see data from other angles or in more depth. 
+
+Dashboards support data-driven organization choices by providing a precise and clear summary of overall business metrics.
+
+**Filters:**   Filters are a smart approach to collect and segregate data depending on its dimensions and sets in order to lower the overall data frequency and speed up processing. There are six main types of filters in tableau desktop, each with its own set of goals and execution processes.
+
+Here, we are using two filters
+
+1.	Associated to club.
+2.	Associated to Name (player name)
+3.	Top N filter
+
+We are using club filter for following plots:
+
+Plot 1- choropleth Map
+For displaying the countries and the number of players in each country for a particular club.
+
+Plot 2- Bar Chart
+For displaying the potential of players in a particular club.
+
+Plot 3- Pie Chart
+For showing team strategy, the count of attack, defense etc.
+
+Plot 4- Bar Chart
+For showing the number of players with respect to their position.
+
+We are using the Top-N filter for the following plots:
+
+Plot 1- Bar Chart
+For displaying the Top N players with highest penalties
+
+Plot 2- Bar Chart
+For showing the expensive players based on values in the season.
+
+
+
+ 
 
 
 
