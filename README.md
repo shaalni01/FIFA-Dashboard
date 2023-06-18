@@ -149,7 +149,7 @@ The users of the FIFA 19 dashboard are–
     
     •	The plot shows the top N players with the highest number of penalties in the season. The number of players to be displayed can be inputted by the user through top N filter.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20bar%20chart%20with%20players%20highest%20penalties.JPG"/>
 
 8.	A table describing the stats of each player, this table includes the parameters of club, nationality, position, work rate, body type, jersey number and date joined.
 
@@ -157,7 +157,7 @@ The users of the FIFA 19 dashboard are–
     
     •	A user interactive filter is applied for the names of the players, such that when a player name is selected, the entire stat of the player is displayed.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Creating%20a%20table%20for%20stats%20of%20each%20player.JPG"/>
 
 9.	A bar chart showing the players distribution based on the wages in the season.
 
