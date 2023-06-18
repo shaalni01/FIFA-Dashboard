@@ -206,7 +206,7 @@ Here, we are using two filters
 2.	Associated to Name (player name)
 3.	Top N filter
 
-We are using club filter for following plots:
+**We are using club filter for following plots:**
 
 Plot 1- choropleth Map
 For displaying the countries and the number of players in each country for a particular club.
@@ -220,13 +220,26 @@ For showing team strategy, the count of attack, defense etc.
 Plot 4- Bar Chart
 For showing the number of players with respect to their position.
 
-We are using the Top-N filter for the following plots:
+**We are using the Top-N filter for the following plots:**
 
 Plot 1- Bar Chart
 For displaying the Top N players with highest penalties
 
 Plot 2- Bar Chart
 For showing the expensive players based on values in the season.
+
+**We are using Name filter for the following plot:**
+
+Plot 1- Table 
+For displaying the following attributes such as players name, position, Nationality, club, Jersey number etc.
+
+**Value Range of the filter**
+
+1. **	Club filter** – The range of the filter is a list of values which are loaded from the column club. There are 185 clubs in the dataset which is the list size. 
+2. **	Player Name Filter** – The range of the filter is the list of player names. The list size is 18209, which are the number of players in the dataset. The attribute is loaded from the name column.
+3.	**Top N filter** – The range of the filter is 18209, which is the count of the data points in the dataset. The parameter count(data.csv) is loaded for this filter.
+
+
 
 
 
