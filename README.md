@@ -25,7 +25,7 @@ The dashboard consists of 10 visualizations. They are discussed below.
 
 **Below is the picture of the Implemented FIFA Dashboard**
 
-<img src=""
+<img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/CreatinG%20FIFA%20dashboard.JPG" />
 
 # Section 2: The Dataset
 The dataset selected is ‘FIFA 19 Player dataset’ which is available at ‘Kaggle’ that gives information about every player that has played FIFA 2019. The dataset has detailed information on each player’s stats, club, joined data, nationality, and income. The dataset has around 18000 datapoints and 89 columns, which we will be pre-processing to obtain quality well-formed data. 
