@@ -181,7 +181,7 @@ The users of the FIFA 19 dashboard are–
     
     •	The sheet shows the number of players who have different positions i.e., LDM, left forward, right forward etc. The club filter is applied to select each club.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20plot%20for%20player%20positions.JPG"/>
     
 12.	A bar chart showing the number of players in each value of the work rate.
 
