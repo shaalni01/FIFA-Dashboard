@@ -109,14 +109,16 @@ The users of the FIFA 19 dashboard are–
    
      •	The map highlights the countries of all the players in a club. A club filter is applied on the map, such that when a particular club is selected, the countries of the club’s players is highlighted with displaying the number of players from each country.
      
+     <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Creating%20cloropleth%20map.JPG"/>
      
-
 3.	A pie chart depicting the count of players which is organized based on the player’s preferred foot. 
 
     •	**Question** – How many players prefer left foot? Likewise, how many players prefer right foot?
     
     •	The preferred foot parameter takes 2 values either left or right. The pie chart gives the count of the number of players preferring right foot and number of players who prefer left foot.
-
+    
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/Creating%20the%20pie%20chart.JPG"/>
+    
 4.	A bar chart displaying the potential of the players in a particular club.
 
     •	**Question** - Identifying the top players in each club based on overall potential.
