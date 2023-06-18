@@ -23,6 +23,10 @@ The dashboard consists of 10 visualizations. They are discussed below.
 
 `Age Group Distribution`: The plot shows the distribution of ages of players during FIFA 19.
 
+**Below is the picture of the Implemented FIFA Dashboard**
+
+<img src=""
+
 # Section 2: The Dataset
 The dataset selected is ‘FIFA 19 Player dataset’ which is available at ‘Kaggle’ that gives information about every player that has played FIFA 2019. The dataset has detailed information on each player’s stats, club, joined data, nationality, and income. The dataset has around 18000 datapoints and 89 columns, which we will be pre-processing to obtain quality well-formed data. 
 
