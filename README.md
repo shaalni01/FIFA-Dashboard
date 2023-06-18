@@ -133,7 +133,7 @@ The users of the FIFA 19 dashboard are–
     
     •	 Calculated field is created to group the ages and a club filter is applied. The club filter lets you choose the club value, and the graph shows the players age distribution.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20bar%20chart-age%20distribution.JPG"/>
 
 6.	A pie chart of team strategy showing the count of attack, defense, and midfielder. A calculated field is created based on position parameters to get the afore mentioned fields.
 
@@ -141,7 +141,7 @@ The users of the FIFA 19 dashboard are–
 
     •	The team strategy is defined by three parameters, attack, defense, and midfielder. These parameters are determined by the players positions. A calculated field is created based on the positions.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20pie%20chart%20for%20team%20strategy.JPG"/>
 
 7.	A bar chart showing the top N players with highest penalties
 
