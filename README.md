@@ -165,25 +165,31 @@ The users of the FIFA 19 dashboard are–
     
     •	A calculated field is created on wages which is grouped into 10k – 20k, 30k – 40k, 50k – 100k, 100k-150k and >150k. The number of players in each wage group is then displayed.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20bar%20chart%20for%20wage%20distribution.JPG"/>
 
 10.	A bar chart showing the top expensive players based on values in the season.
 
     •	**Question** - Determine the topmost expensive players of this season.
     
     •	A top N filter is applied to show the top N valuable players. The player value feature is used for this plot.
+    
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20a%20bar%20chart%20for%20Valuable%20players.JPG"/>
 
 11.	A plot showing the number of players with respect to their position for each club.
 
     •	**Question** – How many players are right forward, left forward, strikers, LDM in each club?
     
     •	The sheet shows the number of players who have different positions i.e., LDM, left forward, right forward etc. The club filter is applied to select each club.
-
+    
+    <img src=""/>
+    
 12.	A bar chart showing the number of players in each value of the work rate.
 
     •	**Question** - How does the number of players vary with respect to the work-rate?
     
     •	The number of players who has different attack/defense work rate is shown in the graph.
+    
+    <img src=""/>
 
 
 
