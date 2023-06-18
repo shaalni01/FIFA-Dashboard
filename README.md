@@ -108,6 +108,8 @@ The users of the FIFA 19 dashboard are–
      •	**Question** - Identifying the Nationalities of all players of a particular club.
    
      •	The map highlights the countries of all the players in a club. A club filter is applied on the map, such that when a particular club is selected, the countries of the club’s players is highlighted with displaying the number of players from each country.
+     
+     
 
 3.	A pie chart depicting the count of players which is organized based on the player’s preferred foot. 
 
