@@ -189,7 +189,7 @@ The users of the FIFA 19 dashboard are–
     
     •	The number of players who has different attack/defense work rate is shown in the graph.
     
-    <img src=""/>
+    <img src="https://github.com/shaalni01/FIFA-Dashboard/blob/main/Assets/creating%20bar%20chart%20for%20work%20rate.JPG"/>
 
 
 
